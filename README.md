@@ -1,0 +1,7 @@
+# Student_Portal
+Student Portal is a college selection website for undergrads 
+Front End/UI - HTML-(CSS) 
+Backend - PHP, MYSQL
+Short Description - This is a project work that has been undertaken in context of partial fulfilment of BBA.CA. We both have tried our best to make the Complex process of College Selection System as simple as possible using organized and compatible technique and menu driven interface. We have tried to design the software in such a way that the Students may not or have less difficulty in using the application and if given a chance would work on further expansion is possible without much effort. 
+The “Student Portal” has been developed to override the problems prevailing in the existing system. This software is supported to eliminate and in some cases reduce the hardships faced by the leading system. Moreover this system is designed for the particular need of the target audience to carry out operations in a simple, smooth and effective manner. The application is reduced as much as to avoid errors while entering data. 
+No formal knowledge is needed for the user to use this system. Thus by this all it proves it is user-friendly. Student Portal, as described above, can lead to error free, firm, reliable, and fast management system. It can assist the user to concentrate on their other activities. Thus it will help colleges in the better utilization of resources. This system will track all details about the Students, Colleges, Registrations, and Courses provide by respective colleges, etc.
